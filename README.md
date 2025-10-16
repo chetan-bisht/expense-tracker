@@ -26,13 +26,13 @@
 
 📸 Screenshots
 
-    ![Desktop View](./screenshots/1(1).png)
+    ![Desktop View](./screenshots/screenshot1.png)
     _Desktop view of the expense tracker_
 
-    ![Mobile View](./screenshots/1(2).png)
+    ![Mobile View](./screenshots/screenshot2.png)
     _Mobile responsive view_
 
-    ![Adding Expense](./screenshots/1(3).png)
+    ![Adding Expense](./screenshots/screenshot3.png)
     _Adding a new expense_
 
 📁 Folder Structure
