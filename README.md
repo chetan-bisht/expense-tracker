@@ -1,40 +1,44 @@
-# Expense Tracker
+💰 Expense Tracker
 
-BudgetWise
+    A simple and beginner-friendly Expense Tracker built using HTML, CSS, and JavaScript to help you 💸 manage your daily expenses, 📊 track spending habits, and 🧾 maintain a clear financial record.
 
-## Description
+    This project focuses on simplicity, readability, and user-friendly design — making it a great choice for beginners learning front-end development and how to store data locally in the browser.
 
-A simple and efficient expense tracker web application built with HTML, CSS, and JavaScript.
+✨ Features
 
-## Features
+    ➕ Add, edit, and delete expenses easily
 
-- Track income and expenses
-- View total balance
-- Add and remove transactions
-- Data persistence using localStorage
-- Responsive design
+    💹 View total income, expenses, and remaining balance
 
-## How to Use
+    💾 Automatically saves data using localStorage
 
-1. Open `index.html` in your web browser
-2. Add transactions by entering a description and amount
-3. Use positive amounts for income, negative for expenses
-4. View your balance, total income, and total expenses
-5. Remove transactions by clicking the 'x' button
+    📱 Responsive layout for desktop and mobile
 
-## Technologies Used
+    🧠 Beginner-friendly and easy-to-understand code
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Local Storage API
+    🛠️ Tech Stack
 
-## Project Structure
+    🌐 HTML – Structure of the app
 
-- `index.html` - Main HTML file
-- `style.css` - Stylesheet
-- `script.js` - JavaScript functionality
+    🎨 CSS – Styling and layout design
 
-## License
+    ⚙️ JavaScript – Core functionality and data management
 
-This project is licensed under the MIT License.
+📸 Screenshots
+
+    ![Desktop View](./screenshots/1(1).png)
+    _Desktop view of the expense tracker_
+
+    ![Mobile View](./screenshots/1(2).png)
+    _Mobile responsive view_
+
+    ![Adding Expense](./screenshots/1(3).png)
+    _Adding a new expense_
+
+📁 Folder Structure
+expense-tracker/
+├── index.html
+├── style.css
+├── script.js
+├── screenshots
+└── README.md
